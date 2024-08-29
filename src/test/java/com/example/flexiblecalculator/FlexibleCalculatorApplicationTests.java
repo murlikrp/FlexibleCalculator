@@ -1,4 +1,3 @@
-
 package com.example.flexiblecalculator;
 
 import org.junit.jupiter.api.Test;
